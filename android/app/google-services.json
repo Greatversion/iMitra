@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663050029025",
+    "project_id": "imitra-b499b",
+    "storage_bucket": "imitra-b499b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663050029025:android:beeb17c2403f45afe574a0",
+        "android_client_info": {
+          "package_name": "com.example.imitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663050029025-1g56dks6pkne41rns73vcv9oenjhh8jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIpPSOk2fmzmjtUXrBtxM0paNDfF3Xitg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663050029025-1g56dks6pkne41rns73vcv9oenjhh8jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
