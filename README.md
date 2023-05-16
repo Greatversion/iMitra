@@ -66,10 +66,6 @@ flutter run
 
 Contributions to iMitra are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request. Please ensure that your code follows the project's coding guidelines and conventions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 We would like to express our gratitude to the contributors, developers, and communities of Flutter, Firebase, Google's ML Kit, Twilio, and TensorFlow. Their invaluable tools and technologies have made iMitra possible and have helped us create a positive impact on the lives of visually impaired individuals in India.
