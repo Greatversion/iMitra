@@ -24,7 +24,13 @@ iMitra is a powerful and innovative mobile application designed to assist visual
 
 - **TensorFlow:** TensorFlow, an open-source machine learning framework, enhances the app's capabilities in object detection and image recognition, improving accuracy and performance.
 
- ![splash](splash.jpg)
+ ![image](splash.jpg)
+ ![image](login.jpg)
+ ![image](home.jpg)
+ ![image](obj.jpg)
+ ![image](obj.jpg)
+ ![image](braille.jpg)
+ ![image](msg.jpg)
 
 
 ## Installation
