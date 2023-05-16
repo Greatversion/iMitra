@@ -32,7 +32,7 @@ iMitra is a powerful and innovative mobile application designed to assist visual
 ![obj2](https://github.com/Greatversion/iMitra/assets/105535211/100b2839-54b5-4021-b264-609e849895c4)
 ![obj](https://github.com/Greatversion/iMitra/assets/105535211/01bb0e95-99c3-4415-ba50-c1950b4508e4)
 ![msg](https://github.com/Greatversion/iMitra/assets/105535211/eea3a569-b48a-49cf-87b4-51439da6b246) -->
-<img src="https://github.com/Greatversion/iMitra/assets/105535211/6d642365-7b1b-4cea-b213-c551465445b8" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/Greatversion/iMitra/assets/105535211/6d642365-7b1b-4cea-b213-c551465445b8" alt="Girl in a jacket" width="300" height="600">
 
 
 
