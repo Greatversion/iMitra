@@ -65,6 +65,8 @@ flutter run
 ## Contributions
 
 Contributions to iMitra are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request. Please ensure that your code follows the project's coding guidelines and conventions.
+https://github.com/SachinAshish
+
 
 ## Acknowledgements
 
