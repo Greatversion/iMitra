@@ -24,13 +24,13 @@ iMitra is a powerful and innovative mobile application designed to assist visual
 
 - **TensorFlow:** TensorFlow, an open-source machine learning framework, enhances the app's capabilities in object detection and image recognition, improving accuracy and performance.
 
-<img src="https://github.com/Greatversion/iMitra/assets/105535211/6d642365-7b1b-4cea-b213-c551465445b8" alt="Girl in a jacket" width="300" >
-<img src="https://github.com/Greatversion/iMitra/assets/105535211/ed7d0b29-df7c-470d-addb-2a1871c11bf5" alt="Girl in a jacket" width="300">
-<img src="https://github.com/Greatversion/iMitra/assets/105535211/40d70368-113f-437e-abbe-21e068601d33" alt="Girl in a jacket" width="300" >
-<img src="https://github.com/Greatversion/iMitra/assets/105535211/a3c94ed6-a54c-4793-9a53-82380b3ee8d0" alt="Girl in a jacket" width="300" >
-<img src="https://github.com/Greatversion/iMitra/assets/105535211/100b2839-54b5-4021-b264-609e849895c4" alt="Girl in a jacket" width="300" >
-<img src="https://github.com/Greatversion/iMitra/assets/105535211/01bb0e95-99c3-4415-ba50-c1950b4508e4" alt="Girl in a jacket" width="300" >
-<img src="https://github.com/Greatversion/iMitra/assets/105535211/eea3a569-b48a-49cf-87b4-51439da6b246" alt="Girl in a jacket" width="300" >
+<img src="https://github.com/Greatversion/iMitra/assets/105535211/6d642365-7b1b-4cea-b213-c551465445b8" alt="Girl in a jacket" width="200" >
+<img src="https://github.com/Greatversion/iMitra/assets/105535211/ed7d0b29-df7c-470d-addb-2a1871c11bf5" alt="Girl in a jacket" width="200">
+<img src="https://github.com/Greatversion/iMitra/assets/105535211/40d70368-113f-437e-abbe-21e068601d33" alt="Girl in a jacket" width="200" >
+<img src="https://github.com/Greatversion/iMitra/assets/105535211/a3c94ed6-a54c-4793-9a53-82380b3ee8d0" alt="Girl in a jacket" width="200" >
+<img src="https://github.com/Greatversion/iMitra/assets/105535211/100b2839-54b5-4021-b264-609e849895c4" alt="Girl in a jacket" width="200" >
+<img src="https://github.com/Greatversion/iMitra/assets/105535211/01bb0e95-99c3-4415-ba50-c1950b4508e4" alt="Girl in a jacket" width="200" >
+<img src="https://github.com/Greatversion/iMitra/assets/105535211/eea3a569-b48a-49cf-87b4-51439da6b246" alt="Girl in a jacket" width="200" >
 
 ## Installation
 
